@@ -1,5 +1,5 @@
 # R2D2_Dataset
-Data set for R2D2
+Dataset for R2D2
 
 
 Contains 3 dataset:
